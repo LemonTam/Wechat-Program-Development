@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class='box'>
+  <view class='title'>随机彩票号码生成</view>
+  <view>生成的随机号码为：</view>
+  <view class='flex-wrp'>
+    <view wx:for="{{rand}}">{{item}}</view>
+  </view>
+  <button type='warn' bindtap='newRand'>产生新的号码</button>
+</view>
+===========================
+<view style='font-family: monospace;font-size: 20px;color: rgb(12, 82, 58);font-weight: 900;'>
+  <view>电科19-2 201923010220 马忠齐</view>
+  <view>-------囿于市井 而向山海-------</view>
+</view>
