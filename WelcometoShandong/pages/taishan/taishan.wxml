@@ -1,0 +1,22 @@
+<!--pages/taishan/taishan.wxml-->
+<view style="color: rgb(184, 26, 131);font-weight: 1000;font-size: large;">
+  <view>泰山的介绍：</view>
+</view>
+<view style="font-family: serif;color: rgb(12, 12, 12);text-decoration: underline; font-weight: 1000; text-indent: 25px;text-decoration-color: rgb(26, 163, 197); font-size: 18px;">
+  <view>泰山，又名岱山、岱宗、岱岳、东岳、泰岳，为五岳之一，位于山东省中部，绵亘于泰安、济南、淄博三市之
+间，总面积2.42万公顷。主峰玉皇顶海拔1532.7米。
+  </view>
+  <view>泰山被古人视为“直通帝座”的天堂，成为百姓崇拜，帝王告祭的神山。“泰山安，四海皆安”的说法。自秦始皇
+开始到清代，先后有13代帝王依次亲登泰山封禅或祭祀，另外有24代帝王遣官祭祀72次。山体上留下了20余处古建筑群，2200余处碑碣石刻。
+  </view>
+</view>
+<view style='font-size: large;font-family: serif;text-indent: 20px; font-weight: 1000; color: rgb(167, 28, 28);'>
+  <view>当你爬上泰山，你绝对会被这里的美色所折服!!！</view>
+</view>
+<view style='text-align: center;'>
+  <image src='{{ttt1}}'></image>
+  <image src='{{ttt2}}'></image>
+  <image src='{{ttt3}}'></image>
+  <image src='{{ttt4}}'></image>
+  <image src='{{ttt5}}'></image>
+</view>
