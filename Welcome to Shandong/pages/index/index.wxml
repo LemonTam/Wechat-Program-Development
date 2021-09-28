@@ -1,0 +1,24 @@
+<!--index.wxml-->
+<view class='box'>
+  <view class='title'>Welcome to ShanDong!</view>
+  <view style='text-align: center;'>
+    <image src='{{imgSrc}}'></image>
+  </view>
+  <view style="color: rgb(10, 163, 48);font-weight: 1000;font-size: large;">
+    <view>山东的介绍：</view></view>
+  <view style="font-family: serif;color: rgb(12, 12, 12);text-decoration: underline; font-weight: 1000; text-indent: 25px;text-decoration-color: rgb(219, 219, 15); font-size: 18px;">
+    <view>山东省，简称鲁，位于中华人民共和国东部沿海、黄河下游、京杭大运河中北段，属华东地区，省会济南，
+经济中心青岛。山东土地面积约15.79万平方公里，为全国第19位。作为工农业大省，山东是环渤海经济圈的重要组成部分，2019年生产总值达人民币7.1兆，位列全国第三名，约占中国内地经济的9%，人均地区生产总值位居第10位。2019年山东省常住人口超过1亿人，为全国第二。其中汉族占99.3%,同时有回、满、蒙3个世居少数民族及朝鲜族等非世居少数民族。</view>
+    <view>山东省西部是黄河冲积平原、中部山脉丘陵、东部山东半岛，地理特征有山有海，是华北地区较多山脉分布
+的省份。西部逆时针分别与河北、河南、安徽、江苏四省接壤；中部为鲁中南山地丘陵区，泰山是全境最高点（1532.7米）；东部的山东半岛向北与辽东半岛隔渤海海峡相对，往东与朝鲜半岛隔黄海相望，往南则可航行至长江口与东南沿岸，境内交通发达，铁路、高速公路网络密集。</view>
+    <view>山东历史悠久，是华夏文明的发祥地之一，齐文化、鲁文化与东夷文化相融合，形成独特的齐鲁文化。又因
+为古代人群的分布不同，分鲁南、鲁北、鲁东南、胶东四区，山东方言可大致分为中原官话、冀鲁官话、胶辽官话三个方言区，这之下又可细分为小片，各地在词法和语法上颇具特色、辨识性强。山东历史上人才辈出，东周时期就有孔丘、孟轲、管仲、孙武、孙膑等一系列历史文化名人。</view>
+  </view>
+  ======================================
+  <view style='font-family: "Cursive";color: rgb(189, 55, 133); font-size: 20px;'>
+    <view>电科19-2 201923010220 马忠齐</view>
+  </view>
+  <view style="color: rgb(11, 111, 158);font-weight: 1000; font-size: 25px;font-family: 'Courier New', Courier, monospace;">
+    <view>---凛冬散尽 星河长明---</view>
+  </view> 
+</view>

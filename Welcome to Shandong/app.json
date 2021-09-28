@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/taishan/taishan",
+    "pages/quancheng/quancheng",
+    "pages/sankong/sankong",
+    "pages/jiaxiang/jiaxiang"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "好客山东欢迎您！",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#00f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/首页-非选中.png",
+        "selectedIconPath": "images/首页-选中.png"
+      },
+      {
+        "pagePath": "pages/taishan/taishan",
+        "text": "泰山",
+        "iconPath": "/images/泰山-非选中.png",
+        "selectedIconPath": "/images/泰山-选中.png"
+      },
+      {
+        "pagePath": "pages/quancheng/quancheng",
+        "text": "泉城",
+        "iconPath": "/images/泉城-非选中.png",
+        "selectedIconPath": "/images/泉城-选中.png"
+      },
+      {
+        "pagePath": "pages/sankong/sankong",
+        "text": "三孔",
+        "iconPath": "/images/三孔-非选中.png",
+        "selectedIconPath": "/images/三孔-选中.png"
+      },
+      {
+        "pagePath": "pages/jiaxiang/jiaxiang",
+        "text": "家乡",
+        "iconPath": "/images/家乡-非选中.png",
+        "selectedIconPath": "/images/家乡-选中.png"
+      }
+    ]
+  }
+}
